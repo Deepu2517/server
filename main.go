@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Instamojo/sample-sdk-server/lib"
+	"github.com/Deepu2517/server/lib"
 	"github.com/gorilla/mux"
 )
 
